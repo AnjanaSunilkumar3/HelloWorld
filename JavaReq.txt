@@ -1,0 +1,27 @@
+Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent
+
+• At least 5 years in a software product development environment
+
+• Proficient in data structures,
+ algorithms and
+ object-oriented designs in Java EE programming language internals including class loading, 
+ memory management,
+ transaction management, 
+ asynchronous message handling, 
+ multithreading, 
+ localization, etc.
+ 
+• Experience in UI development with Java Swing clients and web technologies (Vaadin, JavaScript)
+
+• Experience with Object Oriented analysis and 
+design using common design patterns.
+
+• Database design and programming skills in SQL Server and/or Oracle.
+
+• Familiarity with common development tools as Eclipse, SVN, GitLab, JUnit, JIRA, Jenkins, ANT and Maven
+
+• Domain knowledge in the field of Industrial Automation including MES applications
+
+• Good interpersonal, verbal and written communication skills
+
+• Familiar with agile development processes, Communicative English, that enables collaboration with global team
